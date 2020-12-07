@@ -43,6 +43,7 @@ bla
 ## Abbildungen
 ![Front](images/0.96_Oled-RGB-Display_front2.jpg)
 ![Back](images/0.96_Oled-RGB-Display_back.jpg)
+![Maße](images/maße.jpg)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
