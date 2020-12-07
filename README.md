@@ -41,8 +41,8 @@ bla
 ~ 2.5 EUR for 1pcs: [AliExpress](https://www.aliexpress.com/item/32918394604.html)
 
 ## Abbildungen
-![Front](images/front.png)
-![Back](images/back.png)
+![Front](images/0.96_Oled-RGB-Display_front2.jpg)
+![Back](images/0.96_Oled-RGB-Display_back.jpg)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
