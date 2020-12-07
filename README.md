@@ -1,15 +1,15 @@
-# Vorlage
+# OLED RGB-Display 0.96"
 ## Inhaltsverzeichnis
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
 1. [ ] [Beschreibung](#Beschreibung)
-1. [ ] [Hardware](#Hardware)
-   1. [ ] [Technische Daten](#technische-daten)
+1. [x] [Hardware](#Hardware)
+   1. [x] [Technische Daten](#technische-daten)
    1. [ ] [Datasheet](#datasheet)
    1. [ ] [PCB](#PCB)
-1. [ ] [Software](#Software)
+1. [x] [Software](#Software)
 1. [ ] [3D](#3D)
-1. [ ] [Where to buy](#Where-to-buy)
-1. [ ] [Abbildungen](#Abbildungen)
+1. [x] [Where to buy](#Where-to-buy)
+1. [x] [Abbildungen](#Abbildungen)
 1. [x] [Credits](#Credits)
 
 ## Beschreibung
@@ -18,14 +18,14 @@ bla
 ## Hardware
 ### Technische Daten
 * Modell: 0.96 Oled RGB-Display
-* Typ:8Pin 
+* Typ: 8Pin 
 * Pixel: 80 x 160
 * Display-Height: 10.8mm
 * Display-Width: 21.696mm
 * Module-Height: 20mm
 * Module-Width: 30mm
 * Power Supply: 3.3V - 5.0V
-* Driver IC:ST7735
+* Driver IC: ST7735
 * Interface: SPI
 * Color: 65K Full COlor
 * Operating Temperature: -20° - +70°C
@@ -36,6 +36,8 @@ bla
 * no datasheet available
 ### PCB
 ## Software
+* ![Tutorial 1](https://www.electronics-lab.com/project/using-st7735-1-8-color-tft-display-arduino/)
+* ![Tutorial 2](http://www.zonnepanelen.wouterlood.com/arduino-bare-basics/4-arduino-and-160x128-tft-display-with-a-st7735s-controller/)
 ## 3D
 
 ## Where to buy
