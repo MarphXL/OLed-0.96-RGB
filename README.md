@@ -19,6 +19,7 @@ bla
 ### Technische Daten
 * Modell: 0.96 Oled RGB-Display
 * Typ:8Pin 
+* Pixel: 80 x 160
 * Display-Height: 10.8mm
 * Display-Width: 21.696mm
 * Module-Height: 20mm
