@@ -1,7 +1,7 @@
 # OLED RGB-Display 0.96"
 ## Inhaltsverzeichnis
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
-1. [ ] [Beschreibung](#Beschreibung)
+1. [x] [Beschreibung](#Beschreibung)
 1. [x] [Hardware](#Hardware)
    1. [x] [Technische Daten](#technische-daten)
    1. [ ] [Datasheet](#datasheet)
@@ -13,7 +13,7 @@
 1. [x] [Credits](#Credits)
 
 ## Beschreibung
-bla
+a low-cost Oled-Display with 65K RGB-Colors with 8Pin-SPI-Interface (ST7735-Controller) from AliExpress
 
 ## Hardware
 ### Technische Daten
